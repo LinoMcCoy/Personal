@@ -1,0 +1,26 @@
+div{
+    width: 200px;
+    height: 200px;
+    color: black;
+}
+
+.topC{
+
+    background-color: blue;
+    padding: 20px;
+    border: black solid 10px;
+}
+
+.midC{
+  
+    background-color: red;
+    border: black solid 20px;
+    margin-left: 260px;
+}
+
+.botC{
+ 
+    background-color: yellow;
+    border: black solid 10px;
+    margin-left: 500px;
+}

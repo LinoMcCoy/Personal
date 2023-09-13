@@ -1,0 +1,39 @@
+div{
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+}
+
+
+.red{
+ 
+    background-color:darkred;
+    position: relative;
+    width: 200px;
+    height: 200px;
+    top: 200px;
+    left: 200px;
+    border: black solid 10px;
+}
+
+.blue{
+
+    background-color:midnightblue;
+    position: relative;
+    width: 200px;
+    height: 80px;
+    top: 295px;
+    left: 120px;
+    border: black solid 10px;
+}
+
+.yellow{
+  
+    background-color:darkgoldenrod;
+    position: relative;
+    width: 150px;
+    height: 50px;
+    top: -10px;
+    left: 195px;
+    border: black solid 10px;
+}
